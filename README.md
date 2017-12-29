@@ -1,1 +1,0 @@
-# teiba_spider
